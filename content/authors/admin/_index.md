@@ -25,10 +25,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: MSc in Electrical Engineering and Information Technology
+  - course: M.Sc. in Electrical Engineering and Information Technology
     institution: ETH Zürich
     year: January 2021
-  - course: BSc in Electrical Engineering and Computing
+  - course: B.Sc. in Electrical Engineering and Computing
     institution: University of Belgrade, School of Electrical Engineering
     year: July 2018
 
@@ -48,7 +48,7 @@ social:
   link: https://github.com/JelenaTrisovic
 - icon: linkedin
   icon_pack: fab
-  link: www.linkedin.com/in/jelena-trisovic
+  link: https://linkedin.com/in/jelena-trisovic
 
 
 # Link to a PDF of your resume/CV.
