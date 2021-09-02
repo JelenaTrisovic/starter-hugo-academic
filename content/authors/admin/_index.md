@@ -48,7 +48,7 @@ social:
   link: https://github.com/JelenaTrisovic
 - icon: linkedin
   icon_pack: fab
-  link: https://linkedin.com/in/jelena-trisovic
+  link: www.linkedin.com/in/jelena-trisovic
 
 
 # Link to a PDF of your resume/CV.
