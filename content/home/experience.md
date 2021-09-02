@@ -54,7 +54,7 @@ experience:
     location: Belgrade, Serbia
     date_start: '2015-09-01'
     date_end:  '2018-07-01'
-    description: Helped 
+    description: Helped with grading student projects and homeworks, as well as with conducting of the Laboratory exercises for the following courses: System Control, Nonlinear  Systems Control, Systems and Signals, Fundamentals of Electrical Engineering - Laboratory Exercises.
 
   - title: Research in Industrial Projects for Students
     company: Institute for Pure and Applied Mathematics, University of California Los Angeles
