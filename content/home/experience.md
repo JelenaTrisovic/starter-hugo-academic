@@ -45,7 +45,17 @@ experience:
     date_start: '2019-09-01'
     date_end:  '2020-01-31'
     description: Helped with grading student projects and homeworks for Linear System Theory Course.
-        
+
+
+  - title: Undergraduate Teaching Assistant
+    company: University of Belgrade, School of Electrical Engineering
+    company_url: http://www.etf.bg.ac.rs/en#gsc.tab=0
+    company_logo: org-x
+    location: Belgrade, Serbia
+    date_start: '2019-09-01'
+    date_end:  '2020-01-31'
+    description: Helped with grading student projects and homeworks, as well as with conducting of the Laboratory exercises for the following courses: System Control 1, System Control 2, Nonlinear Control Systems 1, Systems and Signals,Fundamentals of Electrical Engineering - Laboratory Exercises.
+
   - title: Research in Industrial Projects for Students
     company: Institute for Pure and Applied Mathematics, University of California Los Angeles
     company_url: http://www.ipam.ucla.edu/
