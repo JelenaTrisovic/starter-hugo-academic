@@ -40,7 +40,6 @@ experience:
   - title: Student Teaching Assistant
     company: Automatic Control Laboratory, ETH Zürich
     company_url: https://control.ee.ethz.ch/
-    company_logo: eth
     location: Zurich, Switzerland
     date_start: '2019-09-01'
     date_end:  '2020-01-31'
@@ -50,7 +49,6 @@ experience:
   - title: Undergraduate Teaching Assistant
     company: University of Belgrade, School of Electrical Engineering
     company_url: http://www.etf.bg.ac.rs/en#gsc.tab=0
-    company_logo: org-x
     location: Belgrade, Serbia
     date_start: '2015-09-01'
     date_end:  '2018-07-01'
@@ -59,7 +57,6 @@ experience:
   - title: Research in Industrial Projects for Students
     company: Institute for Pure and Applied Mathematics, University of California Los Angeles
     company_url: http://www.ipam.ucla.edu/
-    company_logo: IPAM
     location: Los Angeles, California
     date_start: '2016-06-18'
     date_end:  '2016-08-17'
@@ -68,7 +65,6 @@ experience:
   - title: Summer Internship
     company: University of Belgrade, School of Electrical Engineering
     company_url: http://www.etf.bg.ac.rs/en#gsc.tab=0
-    company_logo: org-x
     location: Belgrade, Serbia
     date_start: '2016-06-01'
     date_end:  '2016-07-01'
@@ -77,7 +73,6 @@ experience:
   - title: Summer Internship
     company: MikroElektronika D.O.O
     company_url: http://www.mikroe.com
-    company_logo: org-x
     location: Belgrade, Serbia
     date_start: '2016-06-01'
     date_end:  '2016-08-01'
