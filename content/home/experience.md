@@ -40,7 +40,7 @@ experience:
   - title: Student Teaching Assistant
     company: Automatic Control Laboratory, ETH Zürich
     company_url: https://control.ee.ethz.ch/
-    company_logo: org-x
+    company_logo: ETH.png
     location: Zurich, Switzerland
     date_start: '2019-09-01'
     date_end:  '2020-01-31'
