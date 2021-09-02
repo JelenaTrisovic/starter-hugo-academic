@@ -40,10 +40,28 @@ experience:
     company: University X
     company_url: ''
     company_logo: org-x
+    location: Belgrade, Serbia
+    date_start: '2016-01-01'
+    date_end: '2020-12-31'
+    description: Taught electronic engineering and researched semiconductor physics.
+   
+  - title: Professor of Semiconductor Physics
+    company: University X
+    company_url: ''
+    company_logo: org-x
     location: California
     date_start: '2016-01-01'
     date_end: '2020-12-31'
     description: Taught electronic engineering and researched semiconductor physics.
+    
+  - title: Summer Internship
+    company: MikroElektronika D.O.O
+    company_url: http://www.mikroe.com
+    company_logo: org-x
+    location: California
+    date_start: June 2016
+    date_end:  August 2016
+    description: Developed an application for air quality control using “3G Click” and “AirQuality Click”.
 
 design:
   columns: '2'
