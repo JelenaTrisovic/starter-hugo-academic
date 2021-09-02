@@ -59,7 +59,7 @@ experience:
   - title: Research in Industrial Projects for Students
     company: Institute for Pure and Applied Mathematics, University of California Los Angeles
     company_url: http://www.ipam.ucla.edu/
-    company_logo: org-x
+    company_logo: IPAM
     location: Los Angeles, California
     date_start: '2016-06-18'
     date_end:  '2016-08-17'
