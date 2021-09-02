@@ -18,9 +18,9 @@ bio: My research interests include signal processing, machine learning and syste
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- System Control
+- Signal Processing
+- Machine Perception
 
 # Education to show in About widget
 education:
