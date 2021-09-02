@@ -47,7 +47,6 @@ experience:
     date_end:  '2020-01-31'
     description: Helped with grading student projects and homeworks for Linear System Theory Course.
 
-
 - title: Undergraduate Teaching Assistant
     company: University of Belgrade, School of Electrical Engineering
     company_url: http://www.etf.bg.ac.rs/en#gsc.tab=0
