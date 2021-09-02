@@ -52,9 +52,9 @@ experience:
     company_url: http://www.etf.bg.ac.rs/en#gsc.tab=0
     company_logo: org-x
     location: Belgrade, Serbia
-    date_start: '2019-09-01'
-    date_end:  '2020-01-31'
-    description: Helped with grading student projects and homeworks, as well as with conducting of the Laboratory exercises for the following courses: System Control 1, System Control 2, Nonlinear Control Systems 1, Systems and Signals,Fundamentals of Electrical Engineering - Laboratory Exercises.
+    date_start: '2015-09-01'
+    date_end:  '2018-07-01'
+    description: Helped 
 
   - title: Research in Industrial Projects for Students
     company: Institute for Pure and Applied Mathematics, University of California Los Angeles
