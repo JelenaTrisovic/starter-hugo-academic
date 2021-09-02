@@ -59,8 +59,8 @@ experience:
     company_url: http://www.mikroe.com
     company_logo: org-x
     location: California
-    date_start: June 2016
-    date_end:  August 2016
+    date_start: '2016-06-01'
+    date_end:  '2016-08-01'
     description: Developed an application for air quality control using “3G Click” and “AirQuality Click”.
 
 design:
