@@ -37,7 +37,6 @@ date_format: Jan 2006
 #        * Deploying
 
 experience:
-
   - title: Student Teaching Assistant
     company: Automatic Control Laboratory, ETH Zürich
     company_url: https://control.ee.ethz.ch/
@@ -47,7 +46,7 @@ experience:
     date_end:  '2020-01-31'
     description: Helped with grading student projects and homeworks for Linear System Theory Course.
 
-- title: Undergraduate Teaching Assistant
+  - title: Undergraduate Teaching Assistant
     company: University of Belgrade, School of Electrical Engineering
     company_url: http://www.etf.bg.ac.rs/en#gsc.tab=0
     company_logo: org-x
