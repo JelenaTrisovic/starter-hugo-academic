@@ -26,8 +26,8 @@ experience:
     company: Robotic Systems Lab, ETH Zürich
     company_url: 'https://rsl.ethz.ch/'
     location: 'Zürich'
-    date_start: '2020-06-01'
-    date_end: '2021-01-01'
+    date_start: '2020-01-01'
+    date_end: '2021-06-01'
     description: 'Master's thesis'
   - title: Image Quality Mapping with Explicit Modeling of Linear and Gamma Corrections
     company: Computer Vision Lab, ETH Zürich
