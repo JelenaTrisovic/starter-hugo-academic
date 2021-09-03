@@ -20,15 +20,12 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: jelena.trisovicinf.ethz.ch
+email: jelena.trisovic@inf.ethz.ch
 address:
-  street: Universtätstrasse 4
+  street: Universtätstrasse 4, CAB E 79
   city: Zürich
   postcode: '8092'
   country: Switzerland
-directions: CAB E 79
-
-
 # Site header
 
 main_menu:
