@@ -1,5 +1,5 @@
 ---
-title: "Multi-Image Blind Deblurring Using a Smoothed NUV Prior and Iteratively Reweighted Coordinate Descent"
+title: "Automatic Conflict Detection in Police Body-Worn Audio"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
