@@ -23,14 +23,14 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.ethz-foundation.ch/en/excellence-scholars/jelena-trisovic/
+- certificate_url: ""
   date_end: ""
   date_start: "2018-09-01"
   description: ""
   organization: ETH Foundation
   organization_url: https://www.ethz-foundation.ch/en/
   title: Excellence Scholarship and Opportunity Programme
-  url: ""
+  url: "https://www.ethz-foundation.ch/en/excellence-scholars/jelena-trisovic/"
 - certificate_url: ""
   date_end: ""
   date_start: "2019-09-01"
@@ -39,22 +39,22 @@ item:
   organization_url: https://www.bg.ac.rs/en/
   title: Student Valedictorian
   url: ""
-- certificate_url: https://www.maa.org/sites/default/files/Programs/WelcomeLetterJMM2018.docx.pdf
+- certificate_url: ""
   date_end: ""
   date_start: "2018-01-01"
   description: ""
   organization: Mathematical Association of America 
   organization_url: https://www.maa.org/
   title: Outstanding Poster Award at Joint Mathematics Meetings, San Diego 2018
-  url: ""
-- certificate_url: https://etf-bafa.blogspot.com/2017/10/etf-bafa-2016-17-student-stipends-and.html
+  url: "https://www.maa.org/sites/default/files/Programs/WelcomeLetterJMM2018.docx.pdf"
+- certificate_url: ""
   date_end: ""
   date_start: "2017-10-01"
   description: ""
   organization: ETF BAFA
   organization_url: https://etf-bafa.blogspot.com/
   title: ETF BAFA 2016-17 Student Stipend
-  url: ""
+  url: "https://etf-bafa.blogspot.com/2017/10/etf-bafa-2016-17-student-stipends-and.html"
 
 
 design:
