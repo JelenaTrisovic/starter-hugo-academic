@@ -1,4 +1,4 @@
----
+me---
 # Display name
 title: Jelena Trisovic
 
@@ -67,4 +67,4 @@ highlight_name: false
 
 I am a Ph.D. student at the ETH AI Center, supervised by Prof. Dr. Melanie Zeilinger and Prof. Dr. Fisher Yu. I obtained my M.Sc. in Electrical Engineering and Information Technology from ETH Zürich and my B.Sc. in Electrical Engineering and Computing from the University of Belgrade.
 
-{{< icon name="download" pack="fas" >}} You can find my resumé {{< staticref "uploads/CV.pdf" "newtab" >}}here{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} You can find my resumé {{< staticref "uploads/resume.pdf" "newtab" >}}here{{< /staticref >}}.
