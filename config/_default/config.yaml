@@ -5,7 +5,7 @@
 
 title: Jelena Trisovic # Website name
 baseurl: 'https://example.com/' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: '© 2021 Jelena Trisovic' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
