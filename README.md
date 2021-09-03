@@ -32,7 +32,7 @@ To help us develop this template and software sustainably under the MIT license,
 - [Open book](https://unsplash.com/photos/J4kK8b9Fgj8)
 - [Course](https://unsplash.com/photos/JKUTrJ4vK00)
 
-## Latest news
+## Latest newss
 <!--START_SECTION:news-->
 * [What&#39;s new in v5.2?](https:&#x2F;&#x2F;wowchemy.com&#x2F;blog&#x2F;v5.2.0&#x2F;)
 * [What&#39;s new in v5.1?](https:&#x2F;&#x2F;wowchemy.com&#x2F;blog&#x2F;v5.1.0&#x2F;)
