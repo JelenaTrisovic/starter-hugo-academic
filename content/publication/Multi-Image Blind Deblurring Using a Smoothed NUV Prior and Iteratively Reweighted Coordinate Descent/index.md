@@ -51,7 +51,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Deblurring results of a grayscale image of a cameraman. Left: blurred image; right: deblurred image.'
+  caption: ''
   focal_point: ""
   preview_only: false
 
