@@ -25,21 +25,21 @@ experience:
   - title: Global Localization in Semantic Building Models
     company: Robotic Systems Lab, ETH Zürich
     company_url: 'https://rsl.ethz.ch/'
-    location: Zürich
+    location: 'Zürich'
     date_start: '2020-06-01'
     date_end: '2021-01-01'
     description: 'Master's thesis'
   - title: Image Quality Mapping with Explicit Modeling of Linear and Gamma Corrections
     company: Computer Vision Lab, ETH Zürich
     company_url: 'https://vision.ee.ethz.ch/'
-    location: Zürich
+    location: 'Zürich'
     date_start: '2019-09-01'
     date_end: '2020-01-01'
     description: 'Semester project'
   - title: Blind Image Deblurring Using Multiple Observations
     company: Signal and Information Processing Laboratory, ETH Zürich
     company_url: 'https://isi.ee.ethz.ch/'
-    location: Zürich
+    location: 'Zürich'
     date_start: '2019-03-02'
     date_end: '2019-06-01'
     description: 'Semester project'
