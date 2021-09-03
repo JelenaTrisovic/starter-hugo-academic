@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
+title: 'Awards'
 subtitle:
 
 # Date format
@@ -23,30 +23,39 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+- certificate_url: https://www.ethz-foundation.ch/en/excellence-scholars/jelena-trisovic/
   date_end: ""
-  date_start: "2021-01-25"
+  date_start: "2018-09-01"
   description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+  organization: ETH Foundation
+  organization_url: https://www.ethz-foundation.ch/en/
+  title: Excellence Scholarship and Opportunity Programme
   url: ""
-- certificate_url: https://www.edx.org
+- certificate_url: ""
   date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
+  date_start: "2019-09-01"
   description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
+  organization: University of Belgrade 
+  organization_url: https://www.bg.ac.rs/en/
+  title: Student Valedictorian
   url: ""
+- certificate_url: https://www.maa.org/sites/default/files/Programs/WelcomeLetterJMM2018.docx.pdf
+  date_end: ""
+  date_start: "2018-01-01"
+  description: ""
+  organization: Mathematical Association of America 
+  organization_url: https://www.maa.org/
+  title: Outstanding Poster Award at Joint Mathematics Meetings, San Diego 2018
+  url: ""
+- certificate_url: https://etf-bafa.blogspot.com/2017/10/etf-bafa-2016-17-student-stipends-and.html
+  date_end: ""
+  date_start: "2017-10-01"
+  description: ""
+  organization: ETF BAFA
+  organization_url: https://etf-bafa.blogspot.com/
+  title: ETF BAFA 2016-17 Student Stipend
+  url: ""
+
 
 design:
   columns: '2' 
