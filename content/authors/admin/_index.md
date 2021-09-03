@@ -10,8 +10,8 @@ role: Ph.D. Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: ETH Zürich
-  url: https://ethz.ch/en.html
+- name: ETH AI Center
+  url: https://ai.ethz.ch/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include signal processing, machine learning and system control.
@@ -42,13 +42,13 @@ social:
   link: '/#contact'
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
-  link: https://scholar.google.co.uk
+  link: https://scholar.google.com/citations?user=QkB5zqUAAAAJ&hl=en&oi=sra
 - icon: github
   icon_pack: fab
   link: https://github.com/JelenaTrisovic
 - icon: linkedin
   icon_pack: fab
-  link: www.linkedin.com/in/jelena-trisovic
+  link: https://www.linkedin.com/in/jelena-trisovic/
 
 
 # Link to a PDF of your resume/CV.
